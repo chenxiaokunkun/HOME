@@ -23,9 +23,22 @@
 
 /*福建移动营业厅*/
 #yingye{
-    color: white;
-    font-size: 28px;
+    color: white;/*字体颜色*/
+    font-size: 28px;/*字体大小*/
 }
+
+
+.guanzhu{
+    width: 6.1rem;/*宽度*/
+    height: 0.64rem;/*高度*/
+    color: white;/*字体颜色*/
+    font-size: 30px;/*字体大小*/
+    border-radius: 10px;/*圆角*/
+    background-color: #8fcc4e;/*背景色*/
+}
+
+
+
 /*第一页 样式结束*/
 
 
