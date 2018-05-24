@@ -1,0 +1,51 @@
+
+.swiper-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+/*第一页 样式开始*/
+.swiper-slide{
+    background-image: url("../image/beijing.png");/*背景图*/
+}
+
+/*头部 图片*/
+.toubu{
+    width: 100%;/*宽*/
+    display: block;/*块级*/
+}
+
+/*200M流量待领取*/
+#liuliang{
+    color: white;/*字体颜色*/
+    text-shadow: 0 4px 2px rgba(0,0,0,0.3);/*字体阴影*/
+}
+
+/*福建移动营业厅*/
+#yingye{
+    color: white;
+    font-size: 28px;
+}
+/*第一页 样式结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
