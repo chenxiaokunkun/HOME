@@ -15,10 +15,19 @@
     display: block;/*块级*/
 }
 
+/*.liul{*/
+    /*margin-top: 24px;/!*200M流量待领取 上边距*!/*/
+/*}*/
+
+
 /*200M流量待领取*/
 #liuliang{
     color: white;/*字体颜色*/
     text-shadow: 0 4px 2px rgba(0,0,0,0.3);/*字体阴影*/
+}
+
+.yyt{
+    margin: 10px 0 20px 0;/*福建移动营业厅 外边距*/
 }
 
 /*福建移动营业厅*/
@@ -28,24 +37,116 @@
 }
 
 
-.guanzhu{
+.guanzhu{/*首次关注 底层*/
     width: 6.1rem;/*宽度*/
     height: 0.64rem;/*高度*/
-    color: white;/*字体颜色*/
-    font-size: 30px;/*字体大小*/
     border-radius: 10px;/*圆角*/
     background-color: #8fcc4e;/*背景色*/
 }
 
+.scziti{/*首次关注，立领100M*/
+    color: white;/*字体颜色*/
+    font-size: 30px;/*字体大小*/
+}
 
+#mohuc{
+    /*透明层*/
+    width: 6.1rem;/*宽*/
+    height: 3.9rem;/*高*/
+    background: rgba(0,0,0,0.05);/*透明色*/
+}
 
+#nerweima{
+    /*二维码*/
+    width: 3rem;/*宽*/
+    height: 3rem;/*高*/
+    margin-top: 16px;/*上边距*/
+}
+
+#shibie{
+    /*识别二维码  关注公众号*/
+    color: white;/*字体颜色*/
+    font-size: 24px;/*字体大小*/
+}
+
+.zaici{
+    /*向上滑动，再得100M*/
+    color: white;/*字体颜色*/
+    font-size: 28px;/*字体大小*/
+    position: fixed;/*浮动定位*/
+    bottom: 20px;/*下*/
+    left: 67px;/*左*/
+}
 /*第一页 样式结束*/
 
 
 
 
+/*第二页样式 开始*/
+.yytbianju{
+    /*福建手机营业厅 上边距*/
+    margin-top: 146px;
+}
+
+.eryyt{
+    /*福建手机营业厅*/
+    color: white;/*字体颜色*/
+    font-size: 28px;/*字体大小*/
+    padding: 0 10px;/*内边距*/
+}
+
+.scdl{
+    /*首次登陆，立领100M 底层*/
+    width: 6.1rem;/*宽*/
+    height: 0.64rem;/*高*/
+    color: white;/*字体颜色*/
+    margin-top: 0.18rem;/*上边距*/
+    font-size: 24px;/*字体大小*/
+    text-align: center;/*水平居中*/
+    border-radius: 10px;/*圆角*/
+    background-color: #42adff;/*背景颜色*/
+}
+
+#er{
+    padding: 0 0.7rem;/*内边距*/
+}
 
 
+.ermohuc{
+    /*第二页模糊层*/
+    width: 6.1rem;/*宽*/
+    height: 3.9rem;/*高*/
+    background: rgba(0,0,0,0.05);/*透明色*/
+}
+
+.eerweima{
+    /*第二页二维码*/
+    width: 3rem;/*宽*/
+    height: 3rem;/*高*/
+    padding-top: 14px;/*上边距*/
+}
+
+.shibie2{
+    /*识别二维码 下载APP*/
+    color: white;/*字体颜色*/
+    font-size: 24px;/*字体大小*/
+}
+
+.xiangxia{
+    /*向下滑动 返回首页*/
+    color: white;/*字体颜色*/
+    font-size: 28px;/*字体大小*/
+    position: fixed;/*浮动定位*/
+    bottom: 0.47rem;/*下*/
+    left: 1.67rem;/*左*/
+}
+
+.jiantou2{
+    /*向下 箭头*/
+    margin-top: 0.24rem;/*上边距*/
+    transform: rotate(180deg);/*箭头旋转*/
+}
+/*第二页样式 结束*/
 
 
 
