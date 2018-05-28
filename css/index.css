@@ -40,7 +40,7 @@
 .guanzhu{/*首次关注 底层*/
     width: 6.1rem;/*宽度*/
     height: 0.64rem;/*高度*/
-    border-radius: 10px;/*圆角*/
+    border-radius: 0.08rem;/*圆角*/
     background-color: #8fcc4e;/*背景色*/
 }
 
@@ -103,7 +103,7 @@
     margin-top: 0.18rem;/*上边距*/
     font-size: 24px;/*字体大小*/
     text-align: center;/*水平居中*/
-    border-radius: 10px;/*圆角*/
+    border-radius: 0.08rem;/*圆角*/
     background-color: #42adff;/*背景颜色*/
 }
 
